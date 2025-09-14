@@ -1,0 +1,9 @@
+{
+  "password": "testing1",
+  "email": "Halo@email.com",
+  "status": "active",
+  "balance": 0,
+  "createdAt": "2025-09-14T11:38:26.295Z",
+  "transactions": [],
+  "investments": []
+}
