@@ -2,7 +2,7 @@
   "password": "112233",
   "email": "Gusti@email.com",
   "status": "active",
-  "balance": 1000000,
+  "balance": 500000,
   "createdAt": "2025-09-14T12:06:22.283Z",
   "transactions": [
     {
@@ -12,7 +12,25 @@
       "status": "SELESAI",
       "timestamp": "2025-09-14T12:06:35.153Z",
       "balanceAfter": 1000000
+    },
+    {
+      "id": 1757851669123,
+      "type": "investment",
+      "amount": 500000,
+      "status": "SELESAI",
+      "timestamp": "2025-09-14T12:07:49.123Z",
+      "balanceAfter": 500000,
+      "description": "Beli Paket Silver"
     }
   ],
-  "investments": []
+  "investments": [
+    {
+      "planId": "silver_3m",
+      "planName": "Paket Silver",
+      "principal": 500000,
+      "dailyProfit": 8000,
+      "startDate": "2025-09-14T12:07:49.123Z",
+      "status": "active"
+    }
+  ]
 }
