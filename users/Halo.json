@@ -2,16 +2,16 @@
   "password": "testing1",
   "email": "Halo@email.com",
   "status": "active",
-  "balance": 0,
+  "balance": 2000,
   "createdAt": "2025-09-14T11:38:26.295Z",
   "transactions": [
     {
       "id": 1757849923187,
       "type": "deposit",
       "amount": 2000,
-      "status": "REQUESTED",
+      "status": "SELESAI",
       "timestamp": "2025-09-14T11:38:43.187Z",
-      "balanceAfter": 0
+      "balanceAfter": 2000
     }
   ],
   "investments": []
