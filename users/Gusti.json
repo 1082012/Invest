@@ -1,0 +1,9 @@
+{
+  "password": "112233",
+  "email": "Gusti@email.com",
+  "status": "active",
+  "balance": 0,
+  "createdAt": "2025-09-14T12:06:22.283Z",
+  "transactions": [],
+  "investments": []
+}
