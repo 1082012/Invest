@@ -4,6 +4,15 @@
   "status": "active",
   "balance": 0,
   "createdAt": "2025-09-14T11:38:26.295Z",
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1757849923187,
+      "type": "deposit",
+      "amount": 2000,
+      "status": "REQUESTED",
+      "timestamp": "2025-09-14T11:38:43.187Z",
+      "balanceAfter": 0
+    }
+  ],
   "investments": []
 }
